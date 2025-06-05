@@ -1,0 +1,15 @@
+# Java class files
+*.class
+
+# Eclipse / IntelliJ / NetBeans etc. configs
+*.log
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
