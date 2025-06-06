@@ -20,3 +20,4 @@ Welcome to the **Basics** section of Programming and DSA Problems. This is where
 1. Swapping numbers using third variable (method 1)
 2. Swapping numbers using third variable (method 2)
 3. Swapping numbers without using third variable 
+4. Check number is even or odd
