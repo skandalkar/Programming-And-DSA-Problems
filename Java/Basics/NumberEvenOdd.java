@@ -1,4 +1,5 @@
-
+// This code checks if a number is even or odd.
+// An even number is an integer that is exactly divisible by 2, while an odd number is not.
 public class NumberEvenOdd {
 
     public static boolean CheckEvenOdd(int num) {

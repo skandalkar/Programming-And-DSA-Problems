@@ -1,4 +1,4 @@
-
+// This code demonstrates how to swap two numbers without using a temporary variable.
 public class NumbersSwap_2 {
     public static void SwapNumbers(int n1, int n2) {
         int temp = n1 + n2;

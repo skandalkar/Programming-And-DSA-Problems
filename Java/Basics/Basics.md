@@ -21,3 +21,13 @@ Welcome to the **Basics** section of Programming and DSA Problems. This is where
 2. Swapping numbers using third variable (method 2)
 3. Swapping numbers without using third variable 
 4. Check number is even or odd
+5. Check if a number is prime or not
+6. Check if a number is an Armstrong number or not
+7. Print table of given number
+8. Calculate the sum of all numbers from 1 to a given number as range
+9. Print all even and odd numbers in a specified range
+10. Print all prime numbers in a specified range
+11. Calculate Factorial of given number (Simple approach)
+12. Calculate sum of digits of number
+13. Print reverse of number
+14. Check number is a palindrome or not 
